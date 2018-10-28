@@ -1,0 +1,15 @@
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\ShutdownTimer.exe.config
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\ShutdownTimer.exe
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\ShutdownTimer.pdb
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.csprojAssemblyReference.cache
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\App.g.cs
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer_MarkupCompile.cache
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer_MarkupCompile.lref
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\MainWindow.baml
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.g.resources
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.Properties.Resources.resources
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.csproj.GenerateResource.cache
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.exe
+C:\Users\Billy\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.pdb
