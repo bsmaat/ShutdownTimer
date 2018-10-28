@@ -92,11 +92,6 @@ namespace ShutdownTimer
 
             _count++;
 
-            Dispatcher.BeginInvoke(DispatcherPriority.Background, new Action(
-                () =>
-                {
-                    labelTimeRemaining.Content = string.Format("{0} {1}", Properties.Resources.TimeRemaining, _numOfIter - _count);
-                }));
             if (_count == _numOfIter)
             {
                 timer.Stop();
